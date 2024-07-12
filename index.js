@@ -107,7 +107,7 @@ function checkConditionsAndRetry() {
 }
 function processElements() {
   alert(
-    'Galxe\x20Auto\x20Complete\x20tasks\x20–\x20Happy\x20Cuan\x20Airdrop\x0a\x0aSubscribe:\x20https://t.me/HappyCuanAirdrop'
+    'Galxe\x20Auto\x20Complete\x20tasks\x20–\x20Happy\x20nice\x20Airdrop\x0a\x0a\x20'
   ),
     !checkClaimButton() &&
       (elementsToClick['forEach'](clickElement),
