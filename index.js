@@ -54,12 +54,13 @@ function _0x4c89() {
     '2159150EDGAXW',
     '168zdSFSH',
     '4sVfrjc',
+    'Galxe\x20Auto\x20Complete\x20tasks\x20–\x20H\x20C\x20A\x0a\x0aSub:\x20 unwa',
     'Popup\x20closed.',
     '4085940cqRFSz',
     '296982aZnxvK',
     '97731gjstXG',
     '533853OldFqe',
-    'Đ\x20 M\x20 glaxe.\x20 mẹ:\x20 glaxe',
+    'Claim\x20button\x20clicked.\x20Subscribe:\x20 glaxe',
     'length',
   ];
   _0x4c89 = function () {
